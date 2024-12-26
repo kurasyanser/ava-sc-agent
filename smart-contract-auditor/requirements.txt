@@ -1,0 +1,6 @@
+# requirements.txt
+
+# Add necessary Python packages
+web3
+numpy
+pandas 
