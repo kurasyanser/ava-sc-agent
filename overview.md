@@ -16,105 +16,105 @@ Real-time Alerts
 
 Risk Reports
 
-Each contract gets a report with the issues found and tips to fix them.
+- Each contract gets a report with the issues found and tips to fix them.
 
-A simple risk score shows how safe a contract is at a glance.
+- A simple risk score shows how safe a contract is at a glance.
 
 Integration and Alerts
 
-It will work with popular tools like MetaMask and IDEs.
+- It will work with popular tools like MetaMask and IDEs.
 
-Notifications can come through email or apps like Slack.
+- Notifications can come through email or apps like Slack.
 
 3. System Requirements
 Fast Performance:
 
-The tool should scan contracts quickly (under 10 seconds).
+- The tool should scan contracts quickly (under 10 seconds).
 
-Real-time alerts should be nearly instant.
+- Real-time alerts should be nearly instant.
 
 Security:
 
-Data will be secure and encrypted.
+- Data will be secure and encrypted.
 
 Scalability:
 
-It should handle lots of contracts as the network grows.
+- It should handle lots of contracts as the network grows.
 
 Compatibility:
 
-It will work with Solidity contracts and run smoothly on major browsers.
+- It will work with Solidity contracts and run smoothly on major browsers.
 
 4. Development Steps
 Step 1: Research (3 weeks)
 
-Find out which security issues are most common.
+- Find out which security issues are most common.
 
-Plan the system layout.
+- Plan the system layout.
 
 Step 2: Build a Prototype (8 weeks)
 
-Backend: Create the scanner and monitoring system.
+- Backend: Create the scanner and monitoring system.
 
-ML Model: Train a model to spot strange behavior.
+- ML Model: Train a model to spot strange behavior.
 
 Step 3: UI Development (5 weeks)
 
-Make a web interface where users can upload contracts and see results.
+- Make a web interface where users can upload contracts and see results.
 
-Set up alerts and notifications.
+- Set up alerts and notifications.
 
 Step 4: Testing (4 weeks)
 
-Run tests to make sure it catches real problems.
+- Run tests to make sure it catches real problems.
 
-Speed up any slow parts.
+- Speed up any slow parts.
 
 Step 5: Launch (2 weeks)
 
-Put the system online and ready to use.
+- Put the system online and ready to use.
 
-Keep an eye out for bugs and fix them fast.
+- Keep an eye out for bugs and fix them fast.
 
 5. Team Needed
 Backend Developer (1 person)
 
-Build the scanner and connect it to the blockchain.
+- Build the scanner and connect it to the blockchain.
 
 ML Engineer (1 person)
 
-Create the anomaly detection model.
+- Create the anomaly detection model.
 
 Frontend Developer (1 person)
 
-Develop the user interface.
+- Develop the user interface.
 
 Security Analyst (1 person)
 
-Help define what to check for and validate the findings.
+- Help define what to check for and validate the findings.
 
 Project Manager (1 person)
 
-Keep the project on track and on time.
+- Keep the project on track and on time.
 
 UI/UX Designer (Optional, 1 person)
 
-Design a simple, clean interface.
+- Design a simple, clean interface.
 
 6. Timeline
 Total Time: About 22 weeks (5.5 months).
 
 Breakdown:
 
-Research: 3 weeks
+- Research: 3 weeks
 
-Prototype: 8 weeks
+- Prototype: 8 weeks
 
-UI Development: 5 weeks
+- UI Development: 5 weeks
 
-Testing: 4 weeks
+- Testing: 4 weeks
 
-Launch: 2 weeks
+- Launch: 2 weeks
 
 7. Cost Estimate
 Team Salaries: $60,000–$80,000 for 5.5 months.
