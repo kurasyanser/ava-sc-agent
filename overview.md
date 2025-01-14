@@ -4,15 +4,15 @@ We’re building a Smart Contract Security Monitor. It will check smart contract
 2. Core Features
 Contract Scanning
 
-It will automatically scan contracts for common problems like reentrancy attacks or overflow issues.
+- It will automatically scan contracts for common problems like reentrancy attacks or overflow issues.
 
-Both static (before running) and dynamic (while running) checks will be included.
+- Both static (before running) and dynamic (while running) checks will be included.
 
 Real-time Alerts
 
-The system will keep an eye on live contracts and flag anything unusual.
+- The system will keep an eye on live contracts and flag anything unusual.
 
-You’ll get alerts for suspicious activity or weird patterns.
+- You’ll get alerts for suspicious activity or weird patterns.
 
 Risk Reports
 
